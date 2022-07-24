@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ogurD
 - 👀 If you can see the invisible, you can achieve the impossible
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to made the world a better place
 - 📫 dario.chrtto@yahoo.com
 
 <!---
